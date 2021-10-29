@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Projects
 
-You can use the [editor on GitHub](https://github.com/Quasician/porfolioSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### UR5E Robotic Arm
+
+![Robot arm drawing my initials](https://gitlab.oit.duke.edu/tpc14/tpc14_rosintro/-/blob/main/ur5e_robot/midterm.gif)
+
+Here is my code for my [robot arm](https://gitlab.oit.duke.edu/tpc14/tpc14_rosintro/-/blob/main/ur5e_robot/scripts/planning.py) writing my initials (TPC) in 3d space.
+It uses poses and cartesian motion planning in ROS.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
