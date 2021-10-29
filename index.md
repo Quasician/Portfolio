@@ -1,6 +1,6 @@
 ## Projects
 
-### UR5E Robotic Arm
+### UR5E Robotic Arm Change
 
 ![Robot arm drawing my initials](https://github.com/Quasician/porfolioSite/blob/gh-pages/midterm.gif)
 
