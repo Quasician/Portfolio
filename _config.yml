@@ -1,2 +1,6 @@
+url: 'https://quasician.github.io/porfolioSite/' # your main domain
+baseurl: '/blob/gh-pages/' # if you're using custom domain keep this blank example: baseurl: ''
+
+
 theme: jekyll-theme-minimal
 markdown: GFM
