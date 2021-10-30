@@ -3,7 +3,7 @@
 ### UR5E Robotic Arm
 
 ![Robot arm drawing my initials](https://github.com/Quasician/porfolioSite/blob/gh-pages/midterm.gif)
-<img src="{{site.baseurl | prepend: site.url}}./blob/gh-pages/midterm.gif" alt="Robot arm drawing my initials in space" />
+<img src="{{site.baseurl | prepend: site.url}}./midterm.gif" alt="Robot arm drawing my initials in space" />
 
 Here is my code for my [robot arm](https://gitlab.oit.duke.edu/tpc14/tpc14_rosintro/-/blob/main/ur5e_robot/scripts/planning.py) writing my initials (TPC) in 3d space.
 It uses poses and cartesian motion planning in ROS.
