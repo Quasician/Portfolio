@@ -3,4 +3,3 @@ baseurl: '/porfolioSite/' # if you're using custom domain keep this blank exampl
 
 
 theme: jekyll-theme-minimal
-markdown: GFM
